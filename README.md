@@ -1,2 +1,2 @@
 # HelloWorld
-My first personal project GIT Project 
+My first personal GIT Project 
